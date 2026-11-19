@@ -1,4 +1,4 @@
-## Hi, I'm Seongboo Park 👋
+## Seongboo Park
 
 PhD student in Physics at the University of Ulsan.
 I work on computational materials science: DFT and machine learning interatomic potentials (MLIP).
