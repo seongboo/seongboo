@@ -6,4 +6,4 @@ I work on computational materials science: DFT and machine learning interatomic 
 ### Public projects
 
 - [lyx-live](https://github.com/seongboo/lyx-live): auto-rebuild a LyX document to PDF whenever it changes on disk
-- [seongboo.github.io](https://github.com/seongboo/seongboo.github.io): personal academic website
+- [seongboo.github.io](https://seongboo.github.io): personal academic website
